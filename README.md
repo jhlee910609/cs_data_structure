@@ -40,4 +40,8 @@
 
 ### 4. 순차 자료구조 방식
 
-##### 4.1. 선형 리스트# cs_data_structure
+##### 4.1. [선형 리스트](https://github.com/jhlee910609/cs_data_structure/tree/master/Array)
+
+
+
+### 5. 연결 자료구조 표현 방식
