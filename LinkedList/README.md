@@ -16,6 +16,10 @@
 - [소스보기](https://github.com/jhlee910609/cs_data_structure/blob/master/LinkedList/src/linkedlist/basic/LinkedListEx.java) 
 
 
+> 예제 결과 출력.jpg
+
+![](https://ws3.sinaimg.cn/large/006tNc79gy1fj0n5678n7j30r40dmjto.jpg)
+
 
 ### 3. 원형 연결 리스트
 
