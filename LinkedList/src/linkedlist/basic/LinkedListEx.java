@@ -122,6 +122,7 @@ public class LinkedListEx {
 		// 6. 데이터 값으로 노드를 탐색하여 데이터에 맞는 노드를 찾아낸다. 
 		public Node searchNode(String data) {
 			Node temp = this.head;
+			// 6.1. temp가 null 일 때, 마지막 노드까지 while문을 통해 작업을 수행한 상황이다. 
 			while(temp != null) {
 				if(data == temp.getData())
 					return temp;
