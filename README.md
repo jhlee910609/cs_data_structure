@@ -46,4 +46,30 @@
 
 ### 5. 연결 자료구조 표현 방식
 
-##### 5.1. [단순 연결 리스트](https://github.com/jhlee910609/cs_data_structure/tree/master/LinkedList) 
+##### 5.1. [단순 연결 리스트 (Singly Linked List)](https://github.com/jhlee910609/cs_data_structure/tree/master/LinkedList) 
+
+##### 5.2. 원형 연결 리스트 (Circular Linked List)
+
+##### 5.3. 이중 연결 리스트 (Doubly Linked List) 
+
+
+
+### 6. 응용 자료 구조 
+
+- 응용자료 구조란?
+  - 자료를 구조화하는 가장 기본적인 방법은 자료를 순서대로 나열하여 리스트를 구성하는 것이다.
+  - 자료를 나열하는 방법을 제한하는 몇 가지 규칙을 추가하여 리스트를 응용한 자료구조를 만들 수 있다.
+  - 응용 자료구조의 종료는 아래와 같다. 
+
+##### 6.1. 스택 (Stack)
+
+##### 6.2. 큐
+
+##### 6.3. 트리
+
+##### 6.4. 그래프
+
+
+
+
+
