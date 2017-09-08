@@ -7,10 +7,11 @@ public class ArrayStack implements Stack {
 	private char itemArray[];
 	
 	public ArrayStack(int stackSize) {
+		// index는 항상 0부터 시작하므로 -1은 즉, 아무 것도 없음을 의미한다.
+		// 1도 없음이 아니라 0도 없음. 그래서 -1.
 		top = -1;
 		this.stackSize = stackSize;
 		this.itemArray = new char[this.stackSize];
-		
 	}
 
 	@Override
@@ -74,9 +75,4 @@ public class ArrayStack implements Stack {
 			System.out.println();
 		}
 	}
-
-	
-	
-	
-
 }
